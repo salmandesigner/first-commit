@@ -1,0 +1,8 @@
+@media screen and (max-width: 1536px) {
+  .addStageModal {
+    background-color: green; }
+
+  .addStageModal:after {
+    content: '1536'; } }
+
+/*# sourceMappingURL=max-1536.css.map */

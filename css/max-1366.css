@@ -1,0 +1,8 @@
+@media screen and (max-width: 1366px) {
+  .addStageModal {
+    background-color: pink; }
+
+  .addStageModal:after {
+    content: '1366'; } }
+
+/*# sourceMappingURL=max-1366.css.map */
