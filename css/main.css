@@ -1,0 +1,782 @@
+/* line 32, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.f-light {
+  font-weight: 300;
+}
+
+/* line 33, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.f-regular {
+  font-weight: 400;
+}
+
+/* line 34, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.f-medium {
+  font-weight: 500;
+}
+
+/* line 35, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.f-semibold {
+  font-weight: 600;
+}
+
+/* line 36, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.f-bold {
+  font-weight: 700;
+}
+
+/* line 39, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.f-13 {
+  font-size: 13px;
+}
+
+/* line 40, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.f-14 {
+  font-size: 14px;
+}
+
+/* line 41, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.f-15 {
+  font-size: 15px;
+}
+
+/* line 42, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.f-16 {
+  font-size: 16px;
+}
+
+/* line 50, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.br-4 {
+  border-radius: 4px;
+}
+
+/* line 51, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.br-6 {
+  border-radius: 6px;
+}
+
+/* line 61, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.mt-10 {
+  margin-top: 10px;
+}
+
+/* line 62, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.mt-15 {
+  margin-top: 15px;
+}
+
+/* line 63, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.mt-20 {
+  margin-top: 20px;
+}
+
+/* line 64, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.mt-30 {
+  margin-top: 30px;
+}
+
+/* line 65, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.mt-40 {
+  margin-top: 40px;
+}
+
+/* line 66, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.mt-50 {
+  margin-top: 50px;
+}
+
+/* line 69, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.border-secondary {
+  border-color: #dfdfdf !important;
+}
+
+/* line 74, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+html {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-weight: 400;
+}
+
+/* line 83, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+a {
+  cursor: pointer;
+  color: #ed1233;
+}
+
+/* line 86, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+a:hover {
+  color: #d3112f;
+  text-decoration: none;
+}
+
+/* line 90, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+a:active {
+  color: #d3112f;
+}
+
+/* line 93, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+a:focus {
+  color: #d3112f;
+}
+
+/* line 98, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+input::-ms-clear {
+  display: none;
+}
+
+/* line 102, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+button {
+  background-color: transparent;
+  border: 0;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+/* line 109, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+form:focus,
+button:focus,
+.btn.focus,
+.btn:focus {
+  outline: 0;
+  box-shadow: none;
+}
+
+/* line 117, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+[dropdowntoggle] {
+  cursor: pointer;
+}
+
+/* line 121, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+textarea,
+input,
+button {
+  outline: none;
+}
+
+/* line 124, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+/* line 125, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+ul li {
+  list-style-type: none;
+}
+
+/* line 127, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary,
+.btn-primary.disabled,
+.btn-primary:disabled {
+  background-color: #ed1233;
+  border-color: #ed1233;
+}
+
+/* line 136, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary.disabled:hover,
+.btn-primary:disabled:hover {
+  background-color: #ed1233;
+  border-color: #ed1233;
+  cursor: not-allowed;
+}
+
+/* line 143, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary.disabled,
+.btn-primary:disabled,
+.btn-secondary.disabled,
+.btn-secondary:disabled,
+.btn-outline-primary.disabled,
+.btn-outline-primary:disabled,
+.btn-outline-secondary.disabled,
+.btn-outline-secondary:disabled {
+  opacity: .4;
+  pointer-events: none;
+  cursor: not-allowed;
+}
+
+/* line 156, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show > .btn-primary.dropdown-toggle {
+  background-color: #d3112f;
+  border-color: #d3112f;
+  box-shadow: none;
+}
+
+/* line 163, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.btn-primary:not(:disabled):not(.disabled):active:focus,
+.show > .btn-primary.dropdown-toggle:focus,
+.btn-primary.focus,
+.btn-primary:focus {
+  box-shadow: none;
+}
+
+/* line 173, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary {
+  background-color: #ed1233;
+  border: 1px solid #ed1233;
+}
+
+/* line 177, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary:hover {
+  background-color: #d3112f;
+  border-color: #d3112f;
+}
+
+/* line 182, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary:focus {
+  background-color: #d3112f;
+  border-color: #d3112f;
+  color: #fff;
+}
+
+/* line 188, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary:active {
+  background-color: #d3112f;
+  border-color: #d3112f;
+}
+
+/* line 194, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary.active,
+.show > .btn-primary.dropdown-toggle {
+  background-color: #d3112f;
+  border-color: #d3112f;
+}
+
+/* line 200, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.dropdown-item.active,
+.dropdown-item:active {
+  color: #fff;
+  background-color: #d3112f;
+}
+
+/* line 207, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-outline-primary.disabled,
+.btn-outline-primary:disabled {
+  color: #ed1233;
+}
+
+/* line 212, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-outline-primary {
+  color: #ed1233;
+  border-color: #ed1233;
+}
+
+/* line 216, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-outline-primary:hover {
+  background-color: #ed1233;
+  border-color: #ed1233;
+}
+
+/* line 222, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-outline-primary:not(:disabled):not(.disabled).active:focus,
+.btn-outline-primary:not(:disabled):not(.disabled):active:focus,
+.btn-outline-secondary:not(:disabled):not(.disabled).active:focus,
+.btn-outline-secondary:not(:disabled):not(.disabled):active:focus,
+.show > .btn-outline-primary.dropdown-toggle:focus,
+.btn-outline-primary.focus,
+.btn-outline-primary:focus {
+  box-shadow: none;
+}
+
+/* line 231, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-outline-primary:not(:disabled):not(.disabled).active,
+.btn-outline-primary:not(:disabled):not(.disabled):active,
+.show > .btn-outline-primary.dropdown-toggle {
+  background-color: #ed1233;
+  border-color: #ed1233;
+}
+
+/* line 239, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-primary,
+.btn-secondary,
+.btn-outline-primary,
+.btn-outline-secondary {
+  padding: .375rem 50px;
+}
+
+/* line 247, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-outline-primary.text-black {
+  color: #444444;
+}
+
+/* line 250, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-outline-primary.text-black:hover {
+  color: #fff;
+}
+
+/* line 255, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-outline-secondary {
+  color: #8c8c8c;
+  border-color: #cdcdcd;
+}
+
+/* line 259, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-outline-secondary:hover {
+  background-color: #292929;
+  border-color: #292929;
+}
+
+/* line 265, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.btn-outline-secondary:not(:disabled):not(.disabled).active,
+.btn-outline-secondary:not(:disabled):not(.disabled):active,
+.show > .btn-outline-secondary.dropdown-toggle {
+  background-color: #8c8c8c;
+  border-color: #8c8c8c;
+}
+
+/* line 271, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.modal-backdrop.show {
+  opacity: .9;
+}
+
+/* line 274, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.modal-content {
+  border: 0;
+  background-color: transparent;
+}
+
+/* line 279, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.modal-open .modal {
+  -webkit-overflow-scrolling: touch;
+}
+
+/* line 282, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.modal-header {
+  padding: 11px 1rem;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+/* line 288, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.modal-body, .modal-footer {
+  background-color: #fff;
+}
+
+/* line 291, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.modal-body.rounded-bottom {
+  border-bottom-left-radius: 6px !important;
+  border-bottom-right-radius: 6px !important;
+}
+
+/* line 295, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.modal-footer {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+/* line 299, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.close {
+  opacity: 1;
+  font-size: inherit;
+}
+
+/* line 302, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.close:focus, .close:hover {
+  opacity: 1;
+}
+
+/* line 306, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.card-img-bottom {
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+/* line 310, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.text-truncate {
+  max-width: 100%;
+}
+
+/* line 312, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.rounded {
+  border-radius: 6px !important;
+}
+
+/* line 315, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.rounded-top {
+  border-top-left-radius: 6px !important;
+  border-top-right-radius: 6px !important;
+}
+
+/* line 320, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.rounded-bottom {
+  border-bottom-right-radius: 6px !important;
+  border-bottom-left-radius: 6px !important;
+}
+
+/* line 325, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.card-header:first-child {
+  border-radius: 6px 6px 0 0;
+}
+
+/* line 329, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.table-hover tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.025);
+}
+
+/* line 334, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.loaderMain {
+  display: flex;
+  align-items: flex-start;
+  width: 100%;
+  width: 100vw;
+  height: 100%;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1060;
+  background-color: #000;
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+/* line 351, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.loaderMain .loader {
+  height: 6px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  background-color: #070707;
+}
+
+/* line 357, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.loaderMain .loader:before {
+  display: block;
+  position: absolute;
+  content: "";
+  left: -200px;
+  width: 200px;
+  height: 6px;
+  background-color: #ed1233;
+  animation: loading 1.5s linear infinite;
+}
+
+@keyframes loading {
+  from {
+    left: -200px;
+    width: 30%;
+  }
+  50% {
+    width: 30%;
+  }
+  70% {
+    width: 70%;
+  }
+  80% {
+    left: 50%;
+  }
+  95% {
+    left: 120%;
+  }
+  to {
+    left: 100%;
+  }
+}
+
+/* line 382, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+html, body {
+  height: 100%;
+}
+
+/* line 384, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+body {
+  font-family: Poppins, sans-serif;
+  color: #222;
+  background-color: #ededed;
+  font-weight: 400;
+}
+
+/* line 401, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.shadow_allSide {
+  box-shadow: 2px 1px 17px 0px rgba(50, 50, 50, 0.15);
+  -webkit-box-shadow: 2px 1px 17px 0px rgba(50, 50, 50, 0.15);
+  -moz-box-shadow: 2px 1px 17px 0px rgba(50, 50, 50, 0.15);
+  -ms-box-shadow: 2px 1px 17px 0px rgba(50, 50, 50, 0.15);
+}
+
+/* line 420, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.prev-button {
+  border-radius: 50%;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+/* line 423, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.next-button {
+  border-radius: 50%;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+/* line 426, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.check-button {
+  border-radius: 50%;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+/* line 430, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.roundedCircle-button {
+  border-radius: 50%;
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+/* line 442, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.transition {
+  transition: all .2s ease;
+  -webkit-transition: all .2s ease;
+  -moz-transition: all .2s ease;
+}
+
+/* line 452, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.QuickViewKitsBox {
+  border-radius: 6px;
+  background: #fff;
+}
+
+/* line 458, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.head-mid-gray {
+  font-size: 14px;
+  color: #768692;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+/* line 465, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.heading-rounded {
+  font-size: 13px;
+  font-weight: 500;
+  padding: 7px 15px;
+}
+
+/*show ecclipses when text overflow*/
+/* line 473, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.limit-textoverflow {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+  display: inline-block;
+}
+
+/*show ecclipses when text overflow end*/
+/* line 483, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.bg-dark-black {
+  background-color: #070707;
+}
+
+/* line 487, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.bg-black {
+  background-color: #292929;
+}
+
+/* line 491, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.bg-red {
+  background-color: #ed1233;
+}
+
+/* line 495, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.bg-gold {
+  background-color: #f0ac14;
+}
+
+/* line 498, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.bg-light-gray {
+  background-color: #f5f5f5;
+}
+
+/* line 501, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.bg-mid-gray {
+  background-color: #768692;
+}
+
+/* line 507, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.color-dark-black {
+  color: #070707;
+}
+
+/* line 511, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.color-black {
+  color: #292929;
+}
+
+/* line 515, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.color-red {
+  color: #ed1233;
+}
+
+/* line 519, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.color-gold {
+  color: #f0ac14;
+}
+
+/* line 523, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.color-mid-gray {
+  color: #768692;
+}
+
+/* line 532, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.label-static {
+  font-size: 13px;
+  color: #808080;
+}
+
+/* line 536, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.input_animated {
+  font-size: 18px;
+  height: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  width: 100%;
+  background-color: transparent;
+  background: transparent;
+  overflow-x: hidden;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+/* line 553, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.input_animated + label {
+  display: block;
+  position: relative;
+  white-space: nowrap;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  border-top: 0px solid #dae2e3;
+  -webkit-transition: width 0.4s ease;
+  transition: width 0.4s ease;
+  height: 0px;
+}
+
+/* line 566, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.input_animated:focus + label > span,
+.input_animated.input-autofill + label span {
+  top: -70px;
+  font-size: 13px;
+  color: #808080;
+  left: 0;
+}
+
+/* line 574, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.input_animated + label > span {
+  margin: 0;
+  position: absolute;
+  color: #808080;
+  font-size: 15px;
+  top: -36px;
+  left: 10px;
+  z-index: -1;
+  -webkit-transition: top 0.2s ease, font-size 0.2s ease;
+  transition: top 0.2s ease, font-size 0.2s ease;
+}
+
+/* line 588, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.input_animated:-webkit-autofill {
+  -webkit-box-shadow: inset 0 0 0px 9999px white;
+}
+
+/* line 595, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.customScroll .mCSB_scrollTools {
+  width: 4px;
+}
+
+/* line 599, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.customScroll .mCSB_inside > .mCSB_container {
+  margin-right: 5px;
+}
+
+/* line 603, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.customScroll .mCSB_scrollTools .mCSB_draggerRail {
+  width: 4px;
+  background-color: #d6d6d6;
+}
+
+/* line 608, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.customScroll .mCSB_dragger .mCSB_dragger_bar {
+  width: 4px;
+}
+
+/* line 612, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+.customScroll .mCS-dark-3.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+  width: 4px;
+  background-color: #a8a8a8;
+}
+
+/* line 621, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+input[type=checkbox].css-checkbox {
+  position: absolute;
+  z-index: -1000;
+  left: -1000px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+
+/* line 633, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+input[type=checkbox].css-checkbox + label.css-label {
+  padding-left: 23px;
+  height: 20px;
+  display: inline-block;
+  line-height: 20px;
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: url(../images/checkbox-unchecked-gray-20x20.svg);
+}
+
+/* line 650, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+input[type=checkbox].css-checkbox:checked + label.css-label {
+  background-image: url(../images/checkbox-checked-red-20x20.svg);
+}
+
+/* line 656, D:/ss/web/prechorus/prechorus/src/assets/scss/main.scss */
+input[type=checkbox][checked].css-checkbox + label.css-label {
+  background-image: url(../images/checkbox-checked-red-20x20.svg);
+}
+
+/*# sourceMappingURL=../css/main.map */

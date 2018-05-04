@@ -1,0 +1,2192 @@
+@media (max-width: 1366px) {
+  .edit_wrapper {
+    height: calc(100vh - 227px); } }
+@media (max-width: 1280px) {
+  .edit_wrapper {
+    height: calc(100vh - 197px); } }
+
+.table_eventTask_expanded .limit-textoverflow {
+  max-width: 260px; }
+
+@media (max-width: 1680px) {
+  .table_eventTask_expanded .limit-textoverflow {
+    max-width: 218px; } }
+@media (max-width: 1600px) {
+  .table_eventTask_expanded .limit-textoverflow {
+    max-width: 206px; } }
+@media (max-width: 1538px) {
+  .table_eventTask_expanded .limit-textoverflow {
+    max-width: 195px; } }
+@media (max-width: 1440px) {
+  .table_eventTask_expanded .limit-textoverflow {
+    max-width: 179px; } }
+@media (max-width: 1366px) {
+  .table_eventTask_expanded .limit-textoverflow {
+    max-width: 158px; } }
+@media (max-width: 1280px) {
+  .table_eventTask_expanded .limit-textoverflow {
+    max-width: 140px; } }
+
+@media (max-width: 1680px) {
+  .table_eventTask .table td .limit-textoverflow {
+    width: 150px; }
+
+  .orgkitscroller {
+    max-height: 483px; }
+
+  .libraryScroll {
+    max-height: 176px; } }
+@media (max-width: 1600px) {
+  .table_eventTask .table td .limit-textoverflow {
+    max-width: 129px; }
+
+  .orgkitscroller {
+    max-height: 333px; } }
+@media (max-width: 1538px) {
+  .mainWrapper.calendarFullpage {
+    padding-top: 20px;
+    padding-bottom: 20px; }
+
+  .calendar_big .fc-basic-view .fc-body .fc-row {
+    height: 66px !important; }
+
+  /*firefox only style*/
+  @-moz-document url-prefix() {
+    .calendar_big .fc-basic-view .fc-body .fc-row {
+      height: 60px !important; } }
+  /*firefox only style end*/
+  .calendar_big .fc-unthemed th {
+    font-size: 12px; }
+
+  .calendar_big .fc-row .fc-content-skeleton td {
+    font-size: 14px; }
+
+  .calendar_big .fc-toolbar h2 {
+    font-size: 16px; }
+
+  .calendar_big .fc button .fc-icon {
+    top: 1px;
+    left: 0px;
+    font-size: 20px; }
+
+  .calendar_big a.fc-more:not([href]):not([tabindex]) {
+    top: -67px;
+    font-size: 12px; }
+
+  .calendar_big .calendar_footer .btn-outline-primary {
+    padding: .5rem 34px;
+    font-size: .85rem; }
+
+  .table_eventTask .table td .limit-textoverflow {
+    max-width: 116px; }
+
+  .table_common th {
+    font-size: 13px; }
+
+  .table_common td {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-size: 15px; }
+
+  .kitswrapper {
+    padding-top: 40px;
+    padding-bottom: 0px; }
+
+  .eventKit-left .card-header,
+  .orgkitleft_scroller .card-header,
+  .orgshareleft_scroller .card-header {
+    padding-top: 8px;
+    padding-bottom: 8px; }
+    .eventKit-left .card-header h5,
+    .orgkitleft_scroller .card-header h5,
+    .orgshareleft_scroller .card-header h5 {
+      font-size: 18px; }
+
+  .list_img {
+    width: 30px; }
+
+  .cir a {
+    width: 32px;
+    height: 32px;
+    background-size: 84%; }
+
+  .cir a.delete_icon {
+    background-size: 56%; }
+
+  .btn-small-2 {
+    font-size: 12px;
+    padding: 7px 14px; }
+
+  .btn-small-kit {
+    font-size: 12px; }
+
+  .kitsidebarHeader {
+    font-size: 14px;
+    padding-top: 13px;
+    padding-bottom: 11px; }
+
+  .kitsidebar .list-group-item h5 {
+    font-size: 1rem; }
+
+  .eventRoleType {
+    font-size: 12px; }
+
+  .kitsidebar .list-group-item h6 {
+    font-size: 13px; }
+
+  .eventKit-scroller {
+    max-height: calc(100vh - 268px); }
+
+  .orgsharesidebar_scroller {
+    max-height: calc(100vh - 196px); }
+
+  .orgkitleft_scroller {
+    max-height: calc(100vh - 150px); }
+
+  .orgcontact_scroller {
+    max-height: calc(100vh - 195px); }
+
+  .orgkitscroller {
+    max-height: 194px; }
+
+  .libraryScroll {
+    max-height: 110px; }
+
+  .list-left a,
+  .kitsidebar .libraryScroll .a-line-color {
+    font-size: 16px; } }
+@media (max-width: 1440px) {
+  .table_eventTask .table td .limit-textoverflow {
+    max-width: 100px; }
+
+  .orgkitscroller {
+    max-height: 642px; } }
+@media (max-width: 1366px) {
+  .getStarted > h2,
+  .box-forgot-password > h2 {
+    font-size: 1.5rem; }
+
+  .centered-signup .getStarted {
+    padding: 24px 30px 30px 30px; }
+
+  .getStarted h2 + p {
+    font-size: 15px;
+    margin-bottom: .2rem; }
+
+  .getStarted p {
+    font-size: 13px;
+    margin-bottom: 0.5rem; }
+
+  .signup-right-box {
+    padding-top: 30px; }
+    .signup-right-box a img {
+      width: 180px;
+      height: 31px; }
+
+  .signup-right-box p {
+    margin-top: 48px;
+    font-size: 17px; }
+
+  .signup-right-box span {
+    font-size: 25px; }
+
+  .login-right-box {
+    padding-top: 80px;
+    height: 540px; }
+
+  .form-signup
+  .form-group .input_animated,
+  .form-login .form-group .input_animated,
+  .form-forgot .form-group .input_animated {
+    font-size: 15px; }
+
+  .box-forgot-password h2 + p {
+    font-size: 15px; }
+
+  .mainWrapper {
+    padding: 40px;
+    margin-top: 56px; }
+
+  .mainWrapper.createEvent_wrapper {
+    padding: 25px 27px 0 27px; }
+
+  .search-header {
+    height: 70px; }
+
+  .search_scroll {
+    height: calc(100vh - 70px); }
+
+  .searchbar input[type=search] {
+    font-size: 26px; }
+
+  .card-org-grid h3 {
+    font-size: 1.2rem; }
+  .card-org-grid .card-org-grid-footer > a {
+    font-size: 11px; }
+  .card-org-grid .card-body {
+    padding: 1rem; }
+
+  .theNext7 {
+    margin-top: 0;
+    height: 377px; }
+
+  .link-next7 {
+    cursor: pointer;
+    width: 50%; }
+
+  .dateCalendar {
+    font-size: 16px;
+    width: 48px;
+    padding: 0 12px; }
+
+  .link-next7 .event_name {
+    font-size: 13px;
+    padding: 0 12px; }
+
+  .theNext7-list .btn-outline-secondary {
+    padding: 4px 12px;
+    font-size: 11px; }
+
+  .heading-rounded {
+    font-size: 12px;
+    padding: 5px 12px; }
+
+  .header {
+    height: 56px; }
+    .header .userinfo {
+      height: 56px; }
+    .header .btn-outline-primary.text-black {
+      padding: 6px 12px;
+      font-size: 12px; }
+    .header .userinfo .user-name {
+      font-size: 13px; }
+    .header .org-dropdown .userinfo {
+      font-size: 13px; }
+    .header .org-dropdown .userinfomenu .dropdown-item {
+      font-size: 11px; }
+    .header .userinfomenu .dropdown-item {
+      padding: 12px 1.5rem;
+      font-size: 13px; }
+    .header .card-scrollable > a {
+      font-size: 12px;
+      padding: 12px 1.5rem; }
+
+  .card-org-grid a.card-body {
+    height: 90px; }
+
+  .calendar_footer .btn-outline-primary {
+    padding: 5px 15px;
+    font-size: 12px; }
+
+  .input_search-lined {
+    font-size: 14px; }
+
+  .input_search-lined:-moz-placeholder,
+  .input_search-lined::-moz-placeholder {
+    font-size: 14px; }
+
+  .input_search-lined:-ms-input-placeholder {
+    font-size: 14px; }
+
+  .input_search-lined::-webkit-input-placeholder {
+    font-size: 14px; }
+
+  .form-add-organization .input_animated {
+    font-size: 15px; }
+
+  .form-add-organization .input_animated + label > span {
+    top: -31px;
+    font-size: 13px; }
+  .form-add-organization .input_animated:focus + label > span,
+  .form-add-organization .input_animated.input-autofill + label span {
+    font-size: 11px;
+    top: -62px; }
+
+  .modal-dialog .custom-radio-buttons ul li label {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 14px; }
+  .modal-dialog .custom-radio-buttons ul li .check {
+    height: 16px;
+    width: 16px; }
+  .modal-dialog .custom-radio-buttons ul li .check::before {
+    height: 8px;
+    width: 8px;
+    top: 3px;
+    left: 3px; }
+  .modal-dialog .btn-add-contact {
+    padding: 7px 20px;
+    font-size: 12px;
+    margin-top: 14px;
+    margin-bottom: 10px; }
+
+  .modal-header {
+    padding-top: 7px;
+    padding-bottom: 7px; }
+
+  .confirm_text {
+    font-size: 16px; }
+
+  .eventdate.createeventdate {
+    height: 122px; }
+
+  .eventinputMain .form-group .input_animated,
+  .table_eventBand tr td .input_eventadd {
+    font-size: 13px; }
+
+  .table_eventBand tr td .input_eventadd:-moz-placeholder,
+  .table_eventBand tr td .input_eventadd::-moz-placeholder {
+    font-size: 13px; }
+
+  .table_eventBand tr td .input_eventadd:-ms-input-placeholder {
+    font-size: 13px; }
+
+  .table_eventBand tr td .input_eventadd::-webkit-input-placeholder {
+    font-size: 13px; }
+
+  .label-required-login,
+  .eventinputMain .input_animated + label > span {
+    font-size: 13px; }
+
+  .reqlogin input[type=checkbox].css-checkbox + label.css-label {
+    height: 18px;
+    line-height: 18px;
+    background-size: 18px 18px; }
+
+  .btn-small.btn-addField {
+    padding: 2px 16px; }
+
+  .createEvent_wrapper .table_eventBand tr td {
+    padding-top: 8px;
+    padding-bottom: 8px; }
+
+  .modal-subhead {
+    font-size: 14px; }
+
+  .sync_cal_radio ul li {
+    margin-top: 40px;
+    margin-bottom: 55px; }
+    .sync_cal_radio ul li h4 {
+      font-size: 13px; }
+
+  .sync_cal_radio ul li label {
+    height: 94px; }
+    .sync_cal_radio ul li label img {
+      height: 84px; }
+
+  .form-shareDaySheet .input_animated {
+    font-size: 15px;
+    height: 42px; }
+
+  .form-shareDaySheet .input_animated + label > span {
+    font-size: 13px;
+    top: -30px; }
+
+  .form-shareDaySheet .input_animated:focus + label > span,
+  .form-shareDaySheet .input_animated.input-autofill + label span {
+    top: -60px;
+    font-size: 12px; }
+
+  .copyUrl .input_copyUrl {
+    height: 34px;
+    font-size: 13px;
+    padding-left: 10px;
+    padding-right: 10px; }
+
+  .copyUrl {
+    padding-bottom: 50px; }
+
+  .copyUrl:after {
+    top: 49px;
+    font-size: 12px; }
+
+  .modal-dialog {
+    margin-top: 1rem;
+    margin-bottom: 1rem; }
+
+  .ls-modal.modal-dialog {
+    margin-top: 0;
+    margin-bottom: 0; }
+
+  .calendar_big .fc-basic-view .fc-body .fc-row {
+    height: 61px !important; }
+
+  /*firefox only style*/
+  @-moz-document url-prefix() {
+    .calendar_big .fc-basic-view .fc-body .fc-row {
+      height: 58px !important; } }
+  /*firefox only style end*/
+  .calendar_big .fc-unthemed th {
+    font-size: 11px; }
+
+  .calendar_big .fc-row .fc-content-skeleton td {
+    font-size: 13px; }
+
+  .calendar_big td.fc-event-container .fc-event:not([href]):not([tabindex]),
+  .calendar_big td.fc-event-container .fc-event-dot:not([href]):not([tabindex]) {
+    height: 8px;
+    width: 8px; }
+
+  .calendar_big a.fc-more:not([href]):not([tabindex]) {
+    font-size: 11px; }
+
+  .calendar_big .fc-toolbar h2 {
+    font-size: 14px; }
+
+  .calendar_big .fc-toolbar.fc-header-toolbar,
+  .calendar_big .calendar_footer {
+    padding: 12px; }
+
+  .calendar_big .fc-state-default.fc-corner-right, .calendar_big .fc-state-default.fc-corner-left {
+    height: 20px;
+    width: 20px; }
+
+  .calendar_big .fc button .fc-icon {
+    top: -1px;
+    font-size: 18px; }
+
+  .calendar_big .calendar_footer .btn-outline-primary {
+    padding: .5rem 40px;
+    font-size: 0.8rem; }
+
+  .assignContScroller {
+    max-height: 380px; }
+    .assignContScroller h5 {
+      font-size: 1rem;
+      margin-bottom: 0; }
+    .assignContScroller .form-add-organization .form-group {
+      margin-bottom: 25px; }
+
+  .modal-assign-contact .f14-5 {
+    font-size: 13px; }
+
+  .modal-assign-contact .t-hed {
+    font-size: 14px; }
+
+  .modal-assign-contact .form-add-organization > .modal-body {
+    padding-top: 10px; }
+
+  .kitswrapper {
+    padding-top: 25px;
+    padding-bottom: 25px; }
+
+  .eventKit-left .card-header h5,
+  .orgkitleft_scroller .card-header h5,
+  .orgshareleft_scroller .card-header h5 {
+    font-size: 14px; }
+
+  .eventKit-left .card .card-body {
+    padding-top: 12px;
+    padding-bottom: 12px; }
+
+  .orgcontact_scroller {
+    max-height: calc(100vh - (56px + 25px + 25px + 39px + 5px)); }
+
+  .orgkitscroller {
+    max-height: 194px; }
+
+  .libraryScroll {
+    max-height: 110px; }
+
+  .eventKit-scroller {
+    max-height: calc(100vh - 204px); }
+
+  .orgsharesidebar_scroller {
+    max-height: calc(100vh - 151px); }
+
+  .orgkitleft_scroller {
+    max-height: calc(100vh - 106px); }
+
+  .libraryScroll {
+    max-height: 160px; }
+
+  .list-left a,
+  .kitsidebar .libraryScroll .a-line-color {
+    font-size: 14px; }
+
+  .kitsidebarHeader {
+    font-size: 13px; }
+
+  .row-kits-cards .kitsCard {
+    margin-bottom: 25px; }
+
+  .orgkitleft_scroller .list-group-item {
+    padding-top: 11px;
+    padding-bottom: 11px; }
+
+  .orgkitleft_scroller .card-body {
+    padding-top: 7px;
+    padding-bottom: 7px; }
+
+  .row-kits-cards .btn-small-2 {
+    font-size: 12px;
+    padding: 7px 10px; }
+
+  .eventKit-left .card-header,
+  .orgkitleft_scroller .card-header,
+  .orgshareleft_scroller .card-header {
+    padding-top: 6px;
+    padding-bottom: 6px; }
+
+  .kitsidebar .list-group-item h5 {
+    margin-bottom: 0.3rem; }
+
+  .cir a {
+    width: 28px;
+    height: 28px;
+    margin-left: 2px; }
+
+  .cir {
+    width: 140px; }
+
+  .list-left {
+    width: calc(100% - 140px); }
+
+  .peoplelistWrapper.mainWrapper {
+    padding: 25px 10px; }
+
+  .table_common td {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 14px; }
+
+  .table_common th {
+    font-size: 12px;
+    padding-top: .65rem;
+    padding-bottom: .65rem; }
+
+  .btn-small {
+    font-size: 12px;
+    padding: 6px 22px; }
+
+  .edit-btn, .trash-btn {
+    width: 16px;
+    height: 16px; }
+
+  .mainWrapper.eventDashboardWrapper {
+    padding: 25px; }
+
+  .eventdate {
+    width: 110px;
+    min-width: 110px;
+    height: 92px; }
+    .eventdate h2 {
+      font-size: 35px; }
+    .eventdate p {
+      font-size: 11px; }
+    .eventdate span {
+      font-size: 9px; }
+
+  .eventName {
+    width: calc(100% - 290px);
+    padding: 4px 15px 0 15px; }
+    .eventName h3 {
+      font-size: 22px; }
+    .eventName p {
+      font-size: 15px;
+      margin-bottom: 12px; }
+    .eventName .eventLink {
+      font-size: 12px;
+      padding-bottom: 1px; }
+
+  .event-card-footer {
+    font-size: 12px;
+    padding: 12px 25px; }
+
+  .table_eventBand .table thead th {
+    font-size: 12px;
+    padding: 5px 15px 5px 25px;
+    vertical-align: middle; }
+
+  .table_eventBand .table td {
+    font-size: 13px; }
+
+  .roaster-people-list {
+    margin-bottom: 15px; }
+
+  .roaster-people-list > li .user-avator {
+    width: 38px;
+    height: 38px; }
+
+  .roaster-people-list > li p {
+    font-size: 9px; }
+
+  .eventDashboardRight .kitbtns .btn-outline-primary {
+    padding: 8px 25px;
+    font-size: 12px;
+    margin-right: auto;
+    width: auto; }
+
+  .table_eventTask .table thead th {
+    font-size: 12px; }
+
+  .table_eventTask .table td {
+    font-size: 13px; }
+
+  .table_eventTask .table td .btn-outline-secondary {
+    font-size: 10px;
+    padding: 6px 8px;
+    margin-left: 3px; }
+
+  .table_eventTask .table td .info-taskCompleted {
+    font-size: 11px;
+    padding: 4px;
+    margin-left: 23px; }
+
+  .eventDashboardRight .QuickViewKits li {
+    font-size: 12px; }
+
+  .table_eventTask .table td .limit-textoverflow {
+    max-width: 100px; }
+
+  .stages li {
+    margin-right: 36px; }
+    .stages li a {
+      font-size: 12px; }
+
+  .stageBtns .btn-small {
+    padding: 6px 15px; }
+
+  .search_records .noResult {
+    font-size: 12px; }
+  .search_records h6 {
+    font-size: 12px;
+    margin-bottom: 0; }
+
+  .search-listing li a {
+    font-size: 14px; }
+  .search-listing li .user-avator {
+    width: 32px;
+    height: 32px; }
+  .search-listing li .people-email {
+    font-size: 13px; }
+
+  .addEvent-buttons {
+    padding: 30px; }
+    .addEvent-buttons .btn {
+      margin-bottom: 15px;
+      width: 270px;
+      font-size: 13px;
+      padding-top: 11px;
+      padding-bottom: 11px; }
+
+  .modal-add-event .search-body-user-3 {
+    top: 97px; }
+    .modal-add-event .search-body-user-3 .people-name {
+      font-size: 13px; }
+    .modal-add-event .search-body-user-3 .search-band-nameScroller {
+      max-height: 156px; }
+
+  .Upload_Sheet .input_animated {
+    font-size: 15px; }
+  .Upload_Sheet .input_animated + label > span {
+    font-size: 14px;
+    top: -32px; }
+  .Upload_Sheet .input_animated:focus + label > span,
+  .Upload_Sheet .input_animated.input-autofill + label span {
+    top: -64px; }
+
+  .Upload_Sheet .input_animated,
+  .Duplicate_Event .input_searchUsers_2 {
+    height: 44px; }
+
+  .Duplicate_Event .input_searchUsers_2:-moz-placeholder,
+  .Duplicate_Event .input_searchUsers_2::-moz-placeholder {
+    font-size: 14px; }
+
+  .Duplicate_Event .input_searchUsers_2:-ms-input-placeholder {
+    font-size: 14px; }
+
+  .Duplicate_Event .input_searchUsers_2::-webkit-input-placeholder {
+    font-size: 14px; }
+
+  .Upload_Sheet .text_red,
+  .Duplicate_Event .text_red {
+    font-size: 14px; }
+
+  .modal-add-event .custom-radio-buttons {
+    margin-bottom: 15px; }
+
+  .modal-add-event .label-required-login {
+    font-size: 14px; }
+
+  .addstage-buttons .btn {
+    margin-bottom: 15px;
+    width: 270px;
+    font-size: 13px;
+    padding-top: 11px;
+    padding-bottom: 11px; }
+
+  .label_assign {
+    font-size: 14px; }
+
+  .input_stageName {
+    height: 40px; }
+
+  .form-shareDaySheet .textarea-add-org {
+    height: 120px;
+    font-size: 15px; }
+
+  .input_searchUsers {
+    height: 40px;
+    font-size: 15px; }
+
+  .search-assign-user {
+    top: 67px; }
+
+  .card-modal-daysheet {
+    margin-bottom: 15px; }
+
+  .card-modal-daysheet .card-event-banner {
+    padding: 12px; }
+
+  .card-modal-daysheet .eventdate {
+    width: 90px;
+    height: 80px;
+    padding: 6px 0 6px 0; }
+
+  .card-modal-daysheet .eventName {
+    padding: 5px 8px 7px 20px; }
+
+  .card-modal-daysheet .eventName h3 {
+    font-size: 18px; }
+
+  .card-modal-daysheet .eventName p {
+    font-size: 13px;
+    margin-bottom: 6px; }
+
+  .card-modal-daysheet .eventdate h2 {
+    font-size: 30px; }
+
+  .card-modal-daysheet .eventdate p {
+    font-size: 9px; }
+
+  .card-modal-daysheet .eventdate span {
+    font-size: 8px; }
+
+  .search-assign-user .searchUser-scroll {
+    max-height: 176px; }
+
+  .boxAddNewUser .link-AddNewUser {
+    font-size: 13px; }
+
+  .changeDOSContact h5 {
+    font-size: 16px; }
+
+  .changeDOSContact.custom-radio-buttons ul li label {
+    font-size: 15px;
+    padding-top: 2px; }
+
+  .addStageModal app-taskdetailmodal .input_animated,
+  .addStageModal app-taskdetailmodal .textarea-add-org {
+    font-size: 15px; }
+
+  .AssignPerson {
+    font-size: 14px; }
+
+  .edtaccount-container section header {
+    padding: 10px 20px; }
+
+  .edtaccount-container section h5 {
+    font-size: 13px; }
+
+  .myaccount-scroll {
+    max-height: calc(100% - 37px); }
+
+  .edit-profilePic {
+    width: 114px;
+    height: 114px; }
+
+  .btn-edit-profilePic {
+    width: 30px;
+    height: 30px; }
+
+  .nameAndroll {
+    font-size: 14px;
+    padding: 10px 12px; }
+
+  .form-edit-account .form-group .input_animated {
+    font-size: 15px; }
+
+  .form-edit-account .input_animated + label > span {
+    font-size: 13px;
+    top: -33px; }
+
+  .form-edit-account .input_animated:focus + label > span,
+  .form-edit-account .input_animated.input-autofill + label span {
+    top: -64px;
+    font-size: 12px; }
+
+  .edit-account-footer {
+    padding-top: 10px;
+    padding-bottom: 10px; }
+
+  .profile-btns .btn {
+    padding: 6px 25px; }
+
+  .eventTaskBanner .eventdate {
+    width: 160px;
+    height: 60px; }
+
+  .eventTaskBanner .eventName {
+    width: calc(100% - 340px); }
+
+  .eventTaskBanner .eventdate div p {
+    margin-top: 12px;
+    line-height: .2; }
+
+  .input_chooseUsers {
+    height: 42px;
+    line-height: 42px;
+    font-size: 13px; }
+
+  .mainWrapper.eventTaskWrapper {
+    padding: 20px 15px; } }
+@media (max-width: 1280px) {
+  _::-webkit-full-page-media, _:future, html.fixed {
+    position: fixed; }
+
+  .mainWrapper {
+    padding: 25px 25px 25px 32px; }
+
+  .heading-rounded-main {
+    padding-left: 8px; }
+
+  .org-grid-container > .row article {
+    padding-left: 8px;
+    padding-right: 8px; }
+
+  .card-org-grid a.card-body {
+    height: 90px; }
+
+  .card-org-grid h3 {
+    font-size: 1.2rem;
+    line-height: 1.4; }
+
+  .form-editAccount .form-group {
+    margin-bottom: 22px; }
+
+  .form-editAccount .form-group .input_animated {
+    height: 40px;
+    font-size: 15px; }
+
+  .nameAndroll {
+    font-size: 15px;
+    padding: 8px 12px; }
+
+  .edtaccount-container section h5 {
+    font-size: 13px; }
+
+  .edtaccount-container section header {
+    padding: 12px 25px; }
+
+  .editaccount-footer {
+    padding-top: 12px;
+    padding-bottom: 12px; }
+
+  .myaccount-scroll {
+    max-height: calc(100% - 41px); }
+
+  _::-webkit-full-page-media, _:future, :root .calendar_big .fc-basic-view .fc-body .fc-row {
+    height: 69px !important; }
+
+  .calendar_big .fc-basic-view .fc-body .fc-row {
+    height: 67px !important; }
+
+  .kitswrapper {
+    padding: 25px 40px 0 40px; }
+
+  .orgsharesidebar_scroller {
+    max-height: calc(100vh - 151px); }
+
+  .orgkitscroller {
+    max-height: 233px; }
+
+  _::-webkit-full-page-media, _:future, :root .orgsharesidebar_scroller {
+    max-height: calc(100vh - 150px); }
+
+  _::-webkit-full-page-media, _:future, :root .libraryScroll {
+    max-height: 224px; }
+
+  .table_eventTask .table td .limit-textoverflow {
+    max-width: 90px; } }
+@media (max-width: 1200px) {
+  .table_eventTask .table td .limit-textoverflow {
+    max-width: 80px; } }
+@media (min-width: 768px) and (max-width: 1024px) {
+  .mainWrapper {
+    padding-left: 25px; }
+
+  .heading-rounded-main {
+    padding-left: 15px; }
+
+  .org-grid-container {
+    padding-left: 20px;
+    padding-right: 20px; }
+
+  .card-org-grid a.card-body {
+    height: 110px; }
+
+  .org-grid-container > .row article {
+    padding-left: 10px;
+    padding-right: 10px; }
+
+  .card-org-grid h3 {
+    font-size: 1.5rem; }
+
+  .card-org-grid .card-org-grid-footer > a {
+    font-size: 13px; }
+
+  .search-box {
+    z-index: 2;
+    margin-bottom: 30px;
+    margin-top: 30px; }
+
+  .theNext7 {
+    margin-bottom: 10px; }
+
+  .link-next7 .event_name {
+    font-size: 15px; }
+
+  .theNext7-list > li {
+    padding: 10px 4px; }
+
+  .theNext7-list .btn-outline-secondary {
+    font-size: 12px; }
+
+  .calendar_footer .btn-outline-primary {
+    padding: 7px 15px;
+    font-size: 14px; }
+
+  .appEventSidebar {
+    padding-right: 0; }
+
+  .stages {
+    max-width: calc(100% - 40px);
+    margin-bottom: 10px; }
+
+  .table_eventTask .table td .limit-textoverflow {
+    width: 260px;
+    max-width: 260px; }
+
+  .stages .mCSB_horizontal.mCSB_inside > .mCSB_container {
+    margin-top: 0; }
+
+  .mainWrapper.eventTaskWrapper {
+    padding: 25px 10px; }
+
+  .eventTaskWrapper .topRightBtns .btn-outline-secondary {
+    margin-left: 15px !important; }
+
+  .tabsXsCroller {
+    width: calc(100% - 100px);
+    margin-left: 15px; }
+    .tabsXsCroller .btn-pill {
+      font-size: 13px; }
+
+  .table_eventTask_expanded .limit-textoverflow {
+    max-width: 120px; }
+
+  .kitswrapper {
+    padding-left: 40px; }
+
+  .eventKit-left .card-header,
+  .orgkitleft_scroller .card-header,
+  .orgshareleft_scroller .card-header {
+    padding: 6px 10px; }
+
+  .btn-small-kit {
+    font-size: 11px;
+    padding: 2px 6px; }
+
+  .eventKit-left .card-header h5,
+  .orgkitleft_scroller .card-header h5,
+  .orgshareleft_scroller .card-header h5 {
+    font-size: 13px; }
+
+  .row-kits-cards .btn-small-2,
+  .btn-small-2 {
+    font-size: 11px;
+    padding: 5px 12px; }
+
+  .orgkitleft_scroller .list-group-item {
+    padding: 11px 10px; }
+
+  .orgkitleft_scroller .card-body {
+    padding: 7px 10px; }
+
+  .eventdate.createeventdate {
+    height: 102px;
+    min-width: 0; } }
+@media (max-width: 1024px) {
+  .common_tooltip.kitsTooltip[data-tooltip]:before {
+    left: -247%; }
+
+  .common_tooltip[data-tooltip]:before {
+    width: 200px; }
+
+  .label-required-login .common_tooltip.kitsTooltip:before {
+    left: 160px; } }
+@media screen and (max-width: 992px) {
+  .tbl_eventTaskWrapper {
+    overflow-x: auto;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch; }
+
+  .table_eventTask_expanded th {
+    font-size: 11px; }
+
+  .table_eventTask_expanded tr td {
+    font-size: 12px; }
+
+  .table_eventTask_expanded tr {
+    display: flex; }
+
+  .table_eventTask_expanded tr th,
+  .table_eventTask_expanded tr td {
+    width: 140px;
+    min-width: 140px; }
+
+  .table_eventTask_expanded tr th:first-child,
+  .table_eventTask_expanded tr td:first-child {
+    width: 46px;
+    min-width: 46px; }
+
+  .btn-del-taskrow {
+    height: 16px;
+    width: 16px;
+    margin: 0 0 0 12px;
+    background-size: 100%; }
+
+  .table_eventTask_expanded .btn-outline-secondary {
+    font-size: 11px;
+    padding: 2px 8px; }
+
+  .table_eventTask_expanded td .info-taskCompleted {
+    font-size: 11px; }
+
+  .kiteventName {
+    padding-right: 10px;
+    margin-top: 10px; }
+
+  .kiteventButton {
+    text-align: left;
+    padding-left: 15px;
+    margin: 10px 0 5px 0; }
+
+  .list-left a, .kitsidebar .libraryScroll .a-line-color {
+    font-size: 13px; }
+
+  .list_img {
+    min-width: 22px;
+    width: 22px;
+    margin-right: 5px; } }
+@media (max-width: 768px) {
+  .btn-navToggle {
+    float: right;
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 50%;
+    background: #ed1233; }
+    .btn-navToggle .bar {
+      height: 2px;
+      width: 50%;
+      position: relative;
+      background: #fff;
+      transition: transform .2s ease;
+      -webkit-transition: transform .2s ease; }
+    .btn-navToggle .bar:nth-child(2) {
+      margin-top: 3px;
+      margin-bottom: 3px; }
+
+  .modal-login .getStarted {
+    width: 380px;
+    padding: 24px 30px 30px 30px; }
+
+  .centered-login {
+    width: 94%;
+    margin-left: 3%; }
+
+  .form-login {
+    margin-bottom: 0; }
+
+  .login-right-box {
+    padding-left: 280px; }
+
+  .modal-reset-password .forgot-password {
+    margin-top: 20px; }
+
+  .table_eventTask .table td .limit-textoverflow {
+    width: 144px;
+    max-width: 144px; }
+
+  .btn-sorting-both {
+    margin-left: 5px;
+    height: 11px; }
+
+  .btn-sorting-both > img {
+    width: 8px; }
+
+  .table_people.table_common th {
+    padding-left: .5rem;
+    padding-right: .5rem;
+    font-size: 11px; }
+
+  .table_people.table_common td {
+    font-size: 13px; }
+
+  .peoplelistWrapper.mainWrapper {
+    padding-left: 0;
+    padding-right: 0; }
+
+  .event-date-input {
+    width: 90px; }
+
+  .eventdateCalendar {
+    margin-top: 8px;
+    height: 96px;
+    font-size: 11px; }
+
+  .event-date-input .error {
+    top: 88px;
+    left: 10px;
+    font-size: 10px; }
+
+  .eventinputMain {
+    width: calc(100% - 90px); }
+
+  .eventinputMain .form-group,
+  .eventinputMain .form-group .input_animated {
+    height: 34px; }
+
+  .eventinputMain .input_animated + label > span {
+    top: -27px; }
+
+  .eventinputMain .input_animated:focus + label > span,
+  .eventinputMain .input_animated.input-autofill + label span {
+    top: -50px; }
+
+  .row-kits-cards .orgshare-card-footer .btn-small-2,
+  .orgshare-card-footer .btn-small-2 {
+    padding: 5px 8px; }
+
+  .row-kits-cards .kitsCard:nth-child(even) {
+    padding-left: 8px; }
+
+  .calendar_big .fc-more-popover {
+    width: 170px; } }
+@media (max-width: 576px) {
+  .home-flex .card {
+    max-width: 300px;
+    padding: 50px 20px;
+    width: calc(100% - 40px); }
+
+  .home-flex .card figure {
+    width: 100%; }
+
+  .home-flex .card figure > img {
+    width: 100%;
+    height: auto;
+    display: block; }
+
+  .home-flex .btn {
+    margin-bottom: 0;
+    font-size: 15px;
+    padding: .75rem 20px; }
+
+  .eventTaskBanner .eventName {
+    width: 100%; }
+
+  .eventTaskBanner .card-event-banner {
+    justify-content: center; }
+
+  .eventTaskBanner .eventName {
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    align-items: center; }
+
+  .event-card-footer .row .col-12 {
+    margin-bottom: 10px; } }
+@media (max-width: 767px) {
+  .logo {
+    margin: 0; }
+
+  .header-right {
+    display: none; }
+
+  .header-right.open {
+    display: flex;
+    flex-flow: column;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    background: #fff;
+    padding: 15px 0;
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.2); }
+
+  .header-left {
+    width: 100%;
+    flex-basis: 100%;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: space-between; }
+
+  .header_inner {
+    flex-flow: column; }
+
+  .org-dropdown {
+    max-width: calc(100% - 90px);
+    min-width: 200px; }
+
+  .header .btn-outline-primary.text-black {
+    margin-right: 0;
+    margin-bottom: 5px; }
+
+  .header-right .user-avator {
+    margin-left: 15px; }
+
+  .userinfo-cover {
+    flex-basis: auto;
+    width: 100%; }
+
+  .header-right .userinfomenu {
+    min-width: calc(100% - 30px);
+    right: 15px !important; }
+
+  .card-scrollable > a {
+    max-width: 100%; }
+
+  .heading-rounded-main {
+    padding-left: 15px; }
+
+  body.modal-open {
+    position: fixed; }
+
+  .input_animated {
+    font-size: 14px;
+    height: 40px; }
+
+  .input_animated + label > span {
+    font-size: 12px;
+    top: -29px; }
+
+  .input_animated:focus + label > span,
+  .input_animated.input-autofill + label span {
+    top: -58px;
+    font-size: 11px;
+    color: #808080;
+    left: 0; }
+
+  .ls-modal {
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow: hidden; }
+
+  .form-login .error {
+    font-size: 11px;
+    padding-top: 2px; }
+
+  .home-flex {
+    height: 100%;
+    position: fixed; }
+
+  .ls-modal {
+    height: auto;
+    overflow: auto; }
+
+  .ls-modal .modal-content {
+    justify-content: flex-start;
+    padding: 30px; }
+
+  .ls-modal .modal-content app-login {
+    width: 100%; }
+
+  .centered-login {
+    width: 100%;
+    margin-left: 0; }
+
+  .centered-login > .container-fluid {
+    margin-left: 0; }
+
+  .modal-login .getStarted {
+    width: 100%;
+    position: inherit !important;
+    transform: translate(0, 0);
+    -webkit-transform: translate(0, 0);
+    order: 2;
+    text-align: center;
+    border-radius: 0 0 8px 8px; }
+
+  .ls-modal .close {
+    right: 11px;
+    top: 10px; }
+
+  .signup-right-box p {
+    display: none; }
+
+  .login-right-box {
+    padding: 20px 30px;
+    text-align: center;
+    height: auto;
+    background-position: 330% bottom;
+    border-radius: 8px 8px 0 0; }
+
+  .login-right-box figure {
+    margin-bottom: 0; }
+
+  .login-right-box figure > img,
+  .logo-header > img {
+    width: 170px;
+    height: 30px; }
+
+  .btn-signup {
+    padding: 10px;
+    font-size: 13px; }
+
+  .modal-login .getStarted {
+    padding: 14px 15px 20px 15px; }
+
+  .login-right-box {
+    padding-top: 12px;
+    padding-bottom: 12px; }
+
+  .form-login {
+    margin-top: 30px; }
+
+  .getStarted .forgot-password {
+    margin-top: 0; }
+
+  .getStarted > h2,
+  .box-forgot-password > h2 {
+    font-size: 1.2rem; }
+
+  .getStarted h2 + p {
+    font-size: 13px; }
+
+  .forgot-password > a {
+    font-size: 10px; }
+
+  .modal-forgot-password .centered-login,
+  .modal-reset-password .centered-login {
+    max-width: 100%;
+    width: 100%; }
+
+  .modal-reset-password .centered-login > .container-fluid,
+  .modal-forgot-password .centered-login > .container-fluid {
+    padding: 0; }
+
+  .box-forgot-password {
+    padding: 14px 15px 20px 15px; }
+
+  .box-forgot-password h2 + p {
+    font-size: 13px; }
+
+  .modal-forgot-password .form-group,
+  .modal-reset-password .form-group {
+    margin-top: 25px; }
+
+  .logo-header {
+    padding-top: 12px !important;
+    padding-bottom: 12px !important; }
+
+  .mainWrapper {
+    padding-left: 15px;
+    padding-right: 15px; }
+
+  .org-grid-container > .row article {
+    padding-left: 15px;
+    padding-right: 15px; }
+
+  .org-grid-container > .row article:nth-child(odd) {
+    padding-right: 7px; }
+
+  .org-grid-container > .row article:nth-child(even) {
+    padding-left: 7px; }
+
+  .search-box {
+    margin-bottom: 30px; }
+
+  .search-listing li .user-avator {
+    margin-left: 0; }
+
+  .mainWrapper.eventDashboardWrapper {
+    padding: 15px; }
+
+  .topRightBtns {
+    padding-bottom: 15px; }
+
+  .dayOfShowContact {
+    width: 100%;
+    padding-top: 10px;
+    font-size: 12px; }
+
+  .dayOfShowContact span {
+    font-size: 12px;
+    max-width: 230px; }
+
+  .stages {
+    max-width: calc(100% - 0px);
+    margin-bottom: 10px; }
+
+  .table-people-box {
+    width: 100%;
+    white-space: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; }
+
+  .table_people.table_common thead tr,
+  .table_people.table_common tbody tr {
+    display: flex; }
+
+  .table_people.table_common thead tr th,
+  .table_people.table_common tbody tr td {
+    width: 140px; }
+
+  .table_people.table_common thead tr th:first-child,
+  .table_people.table_common tbody tr td:first-child {
+    width: 60px; }
+
+  .appEventSidebar {
+    padding-right: 0; }
+
+  .eventDetailWrapper .search-box {
+    margin-top: 30px; }
+
+  .kitsTooltip {
+    padding: 0; }
+
+  .noResultMain {
+    padding-right: 15px; }
+
+  .card-event-banner {
+    flex-wrap: wrap; }
+
+  .eventName {
+    width: calc(100% - 110px);
+    margin-right: 0; }
+
+  .eventName h3 {
+    font-size: 18px; }
+
+  .eventName p {
+    font-size: 12px; }
+
+  .eventName .eventLink {
+    font-size: 11px; }
+
+  .eventbtns .btn-outline-secondary:first-child {
+    margin-left: 0; }
+
+  .mainWrapper.eventTaskWrapper {
+    padding-right: 0;
+    padding-left: 0; }
+
+  .evtask-scroller {
+    flex-flow: column;
+    align-items: flex-start; }
+
+  .tabsXsCroller {
+    width: 100%;
+    margin: 12px 0; }
+
+  .eventTaskWrapper .topRightBtns {
+    justify-content: space-between !important;
+    margin-top: 10px; }
+
+  .eventTaskWrapper .topRightBtns .btn {
+    margin-left: 0; }
+
+  .eventTaskBanner .card-event-banner {
+    flex-wrap: wrap; }
+
+  .eventTaskBanner .eventName {
+    width: calc(100% - 160px);
+    align-items: flex-start;
+    padding-top: 0; }
+
+  .eventbtns {
+    width: 100%; }
+
+  .eventbtns .btn-outline-secondary {
+    margin: 20px 10px 0 0; }
+
+  .mainWrapper.createEvent_wrapper {
+    padding: 15px 15px 0 15px; }
+
+  .eventbanner_input {
+    padding-top: 25px;
+    padding-bottom: 25px; }
+
+  .event-date-input {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 0 7px; }
+
+  .eventdateCalendar {
+    width: 90px;
+    margin: auto; }
+
+  .eventinputMain {
+    width: 100%;
+    padding-left: 0; }
+
+  .event-date-input .error {
+    top: 100px;
+    left: 50%;
+    font-size: 11px;
+    transform: translate3d(-50%, 0, 0); }
+
+  .eventinputMain .form-group {
+    margin-top: 35px; }
+
+  .bs-datepicker.theme-green {
+    left: 0;
+    top: 9vh; }
+
+  .eventdate.createeventdate {
+    height: 60px;
+    flex-flow: row;
+    justify-content: flex-start;
+    padding: 20px; }
+
+  .eventdate.createeventdate p {
+    font-size: 12px;
+    margin-bottom: 0; }
+
+  .eventdate.createeventdate span {
+    font-size: 9px;
+    margin-left: auto; }
+
+  .eventdate.createeventdate h2 {
+    font-size: 22px; }
+
+  .search-band-name {
+    top: 33px; }
+
+  .myaccount-scroll .mCSB_inside > .mCSB_container {
+    margin-right: 0; }
+
+  .myaccount-scroll {
+    padding: 0 10px; }
+
+  .edit-profilePic {
+    width: 90px;
+    height: 90px; }
+
+  .editCont_left {
+    padding-right: 15px; }
+
+  .editCont_right {
+    padding-left: 15px;
+    margin-top: 0px; }
+
+  .edit_wrapper {
+    height: auto;
+    border-right: 0; }
+
+  .user-image-upload {
+    padding: 20px 0; }
+
+  .btn-edit-profilePic > img {
+    height: 40%; }
+
+  .nameRollContainer .row > div:nth-child(odd),
+  .nameAndroll-row > div:nth-child(odd) {
+    padding-right: 5px; }
+
+  .nameRollContainer .row > div:nth-child(even),
+  .nameAndroll-row > div:nth-child(even) {
+    padding-left: 5px; }
+
+  .nameAndroll {
+    font-size: 13px; }
+
+  .form-edit-account .form-group,
+  .form-edit-account .form-group .input_animated {
+    height: 38px; }
+
+  .form-edit-account .form-group .input_animated {
+    font-size: 13px; }
+
+  .form-edit-account .input_animated + label > span {
+    font-size: 12px;
+    top: -28px; }
+
+  .form-edit-account .input_animated:focus + label > span,
+  .form-edit-account .input_animated.input-autofill + label span {
+    top: -57px; }
+
+  .btn-resetpwd {
+    top: 9px;
+    font-size: 11px; }
+
+  .profile-btns .btn {
+    font-size: 11px;
+    margin-left: 5px; }
+
+  .edit-account-footer {
+    padding: 15px 40px; }
+
+  .modal-sync-calendar {
+    position: relative; }
+
+  .sync_cal_radio ul li {
+    margin-top: 20px;
+    margin-bottom: 35px; }
+
+  .sync_cal_radio ul li label img {
+    height: 54px; }
+
+  .orgkitleft_scroller {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 25px; }
+
+  .kitsidebar {
+    padding-right: 15px;
+    margin-bottom: 25px; }
+
+  .row-kits-cards .kitsCard:nth-child(odd) {
+    padding-right: 15px; }
+
+  .row-kits-cards .kitsCard:nth-child(even) {
+    padding-left: 15px; }
+
+  .eventKit-left {
+    padding-left: 15px;
+    padding-right: 15px; }
+
+  .eventKit-left {
+    margin-bottom: 25px; }
+
+  .file_upload_asset {
+    position: absolute; }
+
+  .addStageModal {
+    position: relative; }
+
+  .add-task-modal {
+    position: relative; }
+
+  .card-modal-daysheet {
+    margin-bottom: 30px; }
+
+  .modal-add-event {
+    position: relative; }
+
+  .modal-share-document {
+    position: relative; }
+
+  .modal-share-document h5 {
+    font-size: 1rem; }
+
+  .copyUrl .input_copyUrl {
+    width: calc(100% - 100px); }
+
+  .modal-assign-contact {
+    position: relative; }
+    .modal-assign-contact .modal-content {
+      height: auto; }
+    .modal-assign-contact .f14-5 {
+      margin-bottom: 8px; } }
+@media (max-width: 480px) {
+  .ls-modal .modal-content {
+    justify-content: center;
+    padding: 15px; }
+
+  .modal-sync-calendar .modal-content {
+    justify-content: flex-start;
+    height: auto; }
+
+  .modal-subhead {
+    font-size: 13px; }
+
+  .theNext7-list > li {
+    flex-flow: column;
+    padding: 20px; }
+
+  .link-next7 {
+    justify-content: center;
+    flex-flow: column;
+    width: 100%; }
+
+  .link-next7 .event_name {
+    border: 0;
+    margin: 10px 0 20px 0; }
+
+  .theNext7-list > li .button-group.right-aligned {
+    justify-content: center; }
+
+  .theNext7-list .dateCalendar {
+    font-size: 21px; }
+
+  .card-event-banner {
+    flex-flow: column;
+    align-items: center; }
+
+  .eventName {
+    width: 100%;
+    padding: 20px 0;
+    text-align: center; }
+
+  .eventbtns {
+    width: auto; }
+
+  .event-card-footer {
+    padding: 10px 15px; }
+
+  .RoasterBox {
+    padding: 15px; }
+
+  .dayOfShowContact {
+    align-items: flex-start !important;
+    flex-wrap: wrap; }
+
+  .dayOfShowContact > div {
+    flex-basis: 100%; }
+
+  .dayOfShowContact > span {
+    max-width: calc(100% - 38px);
+    margin: 5px 0 0 0; }
+
+  .tbl-action-btns {
+    padding: 0; }
+
+  .eventDashboardRight .heading-rounded.outer {
+    top: 0;
+    left: 0; }
+
+  .table_eventTask .heading-rounded.outer {
+    top: 15px;
+    left: 15px; }
+
+  .table_eventTask .table thead th {
+    font-size: 11px; }
+
+  .tableTaskcover {
+    margin-top: 30px; }
+
+  .roaster-people-list {
+    margin-top: 15px;
+    margin-bottom: 0;
+    justify-content: flex-start; }
+
+  .roaster-people-list li {
+    margin-bottom: 10px;
+    margin-right: 2px; }
+
+  .roaster-people-list > li .user-avator {
+    width: 32px;
+    height: 32px; }
+
+  .table_eventTask .table td .limit-textoverflow {
+    max-width: 90px; }
+
+  .eventDashboardRight .QuickViewKits {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    flex-flow: column; }
+
+  .eventdashboardkits li {
+    margin-right: 0;
+    width: 100%; }
+
+  .eventdashboardkits li:last-child {
+    margin-bottom: 0; }
+
+  .QuickViewKitsBox {
+    padding: 15px; }
+
+  .table_eventTask .kitbtns {
+    padding: 0 0 15px 15px; }
+
+  .table_eventTask .table thead th {
+    padding-left: 15px; }
+
+  .table_eventTask .table td {
+    padding-left: 15px; }
+
+  .eventDashboardRight .kitbtns .btn-outline-primary {
+    padding: 7px 15px;
+    font-size: 11px; }
+
+  .tbl-action-btns:nth-child(2) {
+    margin-left: 3px; }
+
+  .table_eventBand .table thead th {
+    font-size: 11px;
+    padding-left: 15px; }
+
+  .table_eventBand .table td {
+    font-size: 12px;
+    padding-left: 15px;
+    padding-right: 15px; }
+
+  .QuickViewKitsBox .head-mid-gray {
+    font-size: 12px; }
+
+  .QuickViewKits li {
+    width: 100%;
+    margin-right: 0; }
+
+  .kitbtns .btn-outline-primary {
+    font-size: 11px;
+    margin-right: 6%;
+    width: 48%; }
+
+  .eventdashboardkits {
+    margin-bottom: 15px; }
+
+  .eventTaskBanner .eventName {
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    margin-top: 6px; }
+
+  .eventTaskBanner .eventName h3 {
+    margin-right: 0; }
+
+  .eventbtns .btn-outline-secondary {
+    margin-right: 4px;
+    margin-left: 4px; }
+
+  .eventTaskBanner .eventName p {
+    margin-top: 4px;
+    margin-bottom: 10px !important; }
+
+  .eventbtns .btn-outline-secondary {
+    margin-top: 0; }
+
+  .eventbtns .btn-outline-secondary:nth-child(2) {
+    margin-right: 0; }
+
+  .eventTaskWrapper .topRightBtns {
+    flex-flow: column; }
+
+  .eventTaskWrapper .topRightBtns .input_search-lined {
+    width: 100% !important;
+    margin-bottom: 20px; }
+
+  .label-required-login .common_tooltip.kitsTooltip:before {
+    bottom: -85px;
+    left: 9px;
+    width: calc(100vw - 30px); }
+
+  .label-required-login .common_tooltip.kitsTooltip:after {
+    bottom: -47%;
+    left: 47%;
+    border-right: 7px solid transparent;
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid #fff; }
+
+  .btn-small.btn-addField {
+    padding: 1px 8px; }
+
+  .addEvent-buttons .btn {
+    width: 100%;
+    padding: 11px;
+    font-size: 12px; }
+
+  .sync_cal_radio ul li {
+    padding-left: 0;
+    padding-right: 0; }
+
+  .orgkitleft_scroller {
+    max-height: calc(100vh - 180px); }
+
+  .libraryScroll .text-small {
+    font-size: 60%; }
+
+  .card-modal-daysheet .eventName {
+    padding: 15px 0 0 0;
+    width: 100%; }
+
+  .card-modal-daysheet .event-card-footer p:first-child {
+    width: 100%; }
+
+  .input_searchUsers:-moz-placeholder,
+  .input_searchUsers::-moz-placeholder {
+    font-size: 13px; }
+
+  .input_searchUsers:-ms-input-placeholder {
+    font-size: 13px; }
+
+  .input_searchUsers::-webkit-input-placeholder {
+    font-size: 13px; }
+
+  .modal-add-event {
+    height: 100%; }
+
+  .modal-add-event .label-required-login .common_tooltip.kitsTooltip:before {
+    bottom: -99px;
+    width: 280px;
+    left: 18px; }
+
+  .modal-add-event .label-required-login .common_tooltip.kitsTooltip:after {
+    bottom: -47%;
+    left: 47%; }
+
+  .modal-add-event .search-body-user-3 {
+    top: 95px; }
+
+  .reqlogin {
+    position: relative;
+    z-index: 10; }
+
+  .Duplicate_Event .zi-10 {
+    z-index: 11; }
+
+  .addStageModal {
+    height: 100%; }
+
+  .addstage-buttons .btn {
+    width: 100%; }
+
+  .modal-share-document {
+    position: fixed; }
+
+  .assignContScroller h5 {
+    font-size: 14px; } }
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+  .roaster-people-list > li {
+    margin-right: 3px; }
+
+  .roaster-people-list > li .user-avator {
+    width: 36px;
+    height: 36px; } }
+/*iPhone 6 in portrait end*/
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+  .addStageModal .modal-content {
+    height: auto; } }
+/*iPhone 6 in landscape end*/
+@media (max-width: 320px) {
+  .card-org-grid a.card-body {
+    height: 70px; }
+
+  .card-org-grid h3 {
+    font-size: 1rem; }
+
+  .org-grid-container > .row article:nth-child(odd) {
+    padding-right: 5px; }
+
+  .org-grid-container > .row article:nth-child(even) {
+    padding-left: 5px; }
+
+  .card-org-grid .card-org-grid-footer > a {
+    font-size: 10px; }
+
+  .topRightBtns .btn-outline-secondary {
+    color: #444;
+    border-color: #b4b4b4;
+    margin-bottom: 5px;
+    padding-left: 20px;
+    padding-right: 20px; }
+
+  .label-required-login .common_tooltip.kitsTooltip:before {
+    bottom: -99px;
+    left: 9px; }
+
+  .edit-profilePic {
+    width: 70px;
+    height: 70px; }
+
+  .box-forgot-password > h2 {
+    margin-bottom: 0; }
+
+  .sync_cal_radio ul li label {
+    height: 70px; }
+
+  .addstage-buttons .btn {
+    font-size: 12px; }
+
+  .confirmation_modal .modal-title {
+    font-size: 13px;
+    padding-top: 0; }
+
+  .confirm_text {
+    font-size: 14px; }
+
+  .roaster-people-list li {
+    margin-bottom: 7px;
+    margin-right: 7px; }
+
+  .roaster-people-list > li .user-avator {
+    width: 30px;
+    height: 30px;
+    min-width: auto; }
+
+  .roaster-people-list > li p {
+    font-size: 8px;
+    width: 30px; }
+
+  .RoasterBox .kitbtns {
+    margin: 6px 0 0 0; }
+
+  .dosContactScroller {
+    max-height: 270px; }
+
+  .event-card-footer .row .col-6 {
+    padding-right: 8px; }
+
+  .modal-share-document .form-shareDaySheet .textarea-add-org {
+    height: 100px; }
+
+  .modal-share-document .btn-small {
+    font-size: 12px;
+    padding: 6px 10px; }
+
+  .assignContScroller {
+    max-height: 220px; } }
+/*iPhone 5 & 5S in landscape*/
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+  .dosContactScroller {
+    max-height: 50px; }
+
+  .dsContactModal .modal-content {
+    justify-content: center;
+    padding: 0; }
+
+  .dsContactModal.modal-dialog {
+    height: 100%; } }
+/*iPhone 5 & 5S in landscape end*/
+/*iPhone 5 & 5S in portrait*/
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: portrait) {
+  .input_stageName {
+    line-height: 40px; }
+
+  .input_searchUsers {
+    line-height: 40px; }
+
+  .Duplicate_Event .input_searchUsers_2 {
+    line-height: 40px; } }
+/*iPhone 5 & 5S in portrait end*/
+/* Safari 9+ */
+_::-webkit-full-page-media, _:future, :root .safar-only {
+  height: 100vh; }
+
+/* Safari 9 end*/
+/* Microsoft Edge Browser 12+ (All)  */
+@supports (-ms-ime-align: auto) {
+  .org-someProperty {
+    height: 508px; }
+
+  .input_search-lined {
+    font-size: 14px; }
+
+  .card-img-bottom {
+    margin-top: -1px; }
+
+  .modal-body {
+    margin-top: -1px; }
+
+  .confirmation_modal .modal-body {
+    margin-top: 0; }
+
+  .fc-more-popover .fc-event-container {
+    margin-top: -1px; }
+
+  .modal-footer {
+    margin-top: -1px;
+    padding-top: 1px !important; }
+
+  .confirmation_modal .modal-footer {
+    margin-top: 0; }
+
+  .libraryScroll {
+    max-height: 367px; } }
+/* Microsoft Edge Browser 12+ (All) end  */
+/*hacks for table height differance in IE*/
+@media screen and (min-width: 0\0) {
+  .modal-footer {
+    margin-top: -1px;
+    padding-top: 1px !important; }
+
+  .modal-body {
+    margin-top: -1px; }
+
+  .confirmation_modal .modal-body {
+    margin-top: 0; }
+
+  .card-img-bottom {
+    margin-top: -1px; }
+
+  .fc-more-popover .fc-event-container {
+    margin-top: -1px; } }
+@media only screen and (max-width: 1536px) {
+  _:-ms-fullscreen, :root .org-someProperty {
+    height: 508px; } }
+@media only screen and (max-width: 1366px) {
+  _:-ms-fullscreen, :root .someProperty {
+    height: 392px; }
+
+  _:-ms-fullscreen, :root .calendar_big .fc button .fc-icon {
+    top: -4px;
+    font-size: 9px;
+    left: 0px; }
+
+  _:-ms-fullscreen, :root .header .org-dropdown .userinfo {
+    padding-top: 3px; }
+
+  _:-ms-fullscreen, :root .header .userinfo .user-name {
+    font-size: 12px; }
+
+  _:-ms-fullscreen, :root .header .org-dropdown .userinfo {
+    font-size: 12px; } }
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .centered-login {
+    width: 580px; }
+
+  .sync_cal_radio ul li label > img {
+    pointer-events: none; }
+
+  .fc button .fc-icon {
+    top: -5px;
+    font-size: 8px; }
+
+  .calendar_big .fc button .fc-icon {
+    top: -2px;
+    font-size: 0.7em;
+    left: 1px; }
+
+  a:not([href]):not([tabindex]).fc-more {
+    font-weight: 500; }
+
+  .modal-footer {
+    margin-top: -1px;
+    padding-top: 1px !important; } }
+/*chrome only css*/
+@-moz-document url-prefix() {
+  .orgcontact_scroller {
+    max-height: 204px; }
+
+  .libraryScroll {
+    max-height: 319px; }
+
+  .kitsidebarHeader {
+    line-height: 1; } }
+@media screen and (max-width: 1538px) {
+  @-moz-document url-prefix() {
+    .orgcontact_scroller {
+      max-height: 183px; }
+
+    .libraryScroll {
+      max-height: 191px; } } }
+@media screen and (max-width: 1366px) {
+  @-moz-document url-prefix() {
+    .libraryScroll {
+      max-height: 155px; } } }
+@media (max-width: 1366px) {
+  @supports (-ms-ime-align: auto) {
+    .libraryScroll {
+      max-height: 203px; } } }
+
+/*# sourceMappingURL=media.css.map */
